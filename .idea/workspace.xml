@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="582212ef-f2c7-4fce-9cef-6c990c59c213" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SQL/12.TRANSACTION.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +30,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
@@ -38,9 +40,15 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "database.query.execution",
+    "sql.codeStylePanel.last.previewDialect": "SQL2016",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -72,7 +80,9 @@
       <option name="presentableId" value="Default" />
       <updated>1697695480634</updated>
       <workItem from="1761207906180" duration="5377000" />
-      <workItem from="1761539614821" duration="2574000" />
+      <workItem from="1761539614821" duration="5524000" />
+      <workItem from="1761610908561" duration="51000" />
+      <workItem from="1761610974995" duration="10942000" />
     </task>
     <servers />
   </component>
